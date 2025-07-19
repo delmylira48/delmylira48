@@ -4,7 +4,7 @@
 
 🎓 Egresada de Ingeniería en Sistemas  
 💻 Apasionada por el desarrollo backend con **Java** y **Spring Boot**  
-✅ Firme creyente en las buenas prácticas de código: clean code, principios SOLID y testing
+✅ Disfruto seguir buenas prácticas de código
 
 <br> 
 
