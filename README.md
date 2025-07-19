@@ -21,7 +21,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 ### Bases de datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -34,7 +34,7 @@
 ## 📫 ¿Dónde contactarme?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-delmylira-blue?logo=linkedin)](https://www.linkedin.com/in/delmylira) 
-[![Mail](https://img.shields.io/badge/Mail-delmylira48-red?logo=Mail)](mailto:delmy.lira48@gmail.com)  
+[![Mail](https://img.shields.io/badge/Gmail-delmylira48-orange?logo=gmail)](mailto:delmy.lira48@gmail.com)  
 
 <p align="center">✨ ¡Estoy lista para colaborar y aprender! No dudes en contactarme. </p>
 
